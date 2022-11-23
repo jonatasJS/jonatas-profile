@@ -103,7 +103,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
+    title: "Jônatas."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
@@ -116,12 +116,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+          url: https://github.com/jonatasjs
+        # - icon: fab fa-twitter
+        #   url: https://example.com
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "/"
 
   # About
   about:
@@ -140,6 +140,7 @@ params:
         - "CSS"
         - "JavaScript"
         - "React"
+        - "NextJS"
         - "Node"
         - "Express"
 
@@ -148,7 +149,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
+      - job: "Junior Software Developer"
         company: "Facebook"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
